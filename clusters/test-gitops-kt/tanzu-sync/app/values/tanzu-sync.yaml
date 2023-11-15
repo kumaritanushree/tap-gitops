@@ -1,0 +1,7 @@
+---
+git:
+  url: git@github.com:kumaritanushree/tap-gitops.git
+  ref: origin/main
+  sub_path: clusters/test-gitops-kt/cluster-config
+tap_package_repository:
+  oci_repository: 665112446684.dkr.ecr.ap-south-2.amazonaws.com/tap-images-gitops-kt

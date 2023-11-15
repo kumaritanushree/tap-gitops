@@ -1,0 +1,3 @@
+tap_install:
+  package_repository:
+    oci_repository: 665112446684.dkr.ecr.ap-south-2.amazonaws.com/tap-images-gitops-kt
